@@ -1,0 +1,3 @@
+[submodule "pico-window"]
+	path = pico-window
+	url = https://github.com/tvlad1234/pico-window.git
